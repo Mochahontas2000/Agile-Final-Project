@@ -1,2 +1,2 @@
 # agile-final-project
-This the final Project Board to create a backlog and sprint plan for this work
+This is the final Project to create a backlog and sprint plan for this work
